@@ -1,0 +1,7 @@
+.terraform/
+out/
+*.tfstate.backup
+*.secret.auto.tfvars
+*.zip
+*.hcl
+.idea
